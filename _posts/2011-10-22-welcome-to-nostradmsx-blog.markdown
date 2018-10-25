@@ -1,8 +1,9 @@
 ---
 layout: post
-title:  "Who is NostradmsX?"
+title:  "Why NostradmsX?"
 date:   2011-02-11 16:22:01 -0700
 categories: personal opinion
+permalink: "/nostradmsx/"
 ---
 **NostradmsX** is the pseudonym I started using back in the AOL and Yahoo days. I even used it as the business name for my first web development and design contract. 
 
@@ -14,7 +15,7 @@ Last but not the least is my affinity to the works and character of the french s
 
 My attitude to look beyond the ordinary may have started when I tried to research on some of **Nostra**damus's works. Eventually, I succumb to letting the future reveal itself. When it comes to technology, **NostradmsX** often wears the hat of a futurist. With enough reverence to the work of others and the sensitivity to the needs I see around me, I try to anticipate and do something to make technological artifacts that assist others.
 
-
-[nostradmsx.com](https://nostradmsx.com)
-[Wiki about Nostradamus](https://en.wikipedia.org/wiki/Nostradamus)
+*Some Relevant Links:*
+1. [nostradmsx.com](http://www.nostradmsx.com)
+2. [Wiki about Nostradamus](https://en.wikipedia.org/wiki/Nostradamus)
 

@@ -3,6 +3,7 @@ layout: post
 title:  "Motivation for this Blog"
 date:   2018-10-22
 categories: personal opinion
+permalink: "/motivation/"
 ---
 
 As a freelancer, I constantly try to reinvent my branding strategies. As I acquire more knowledge from taking some MOOC (Massive Open Online Courses) in order to remain relevant in the IT industry, I try to compartmentalize the growing list of products and services I offer. 

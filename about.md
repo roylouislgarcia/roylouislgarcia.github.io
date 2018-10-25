@@ -8,7 +8,7 @@ This blog contains some of my raw thoughts and projects relating to things I am 
 
 Some of the blog posts I will include can be characterized as either a thought exercise or actually building tangible projects that represent some of the concepts that I want to think and tinker with.
 
-If you wish to find out more about me, please visit my online portfolio at [www.nostradmsx.com](www.nostradmsx.com). 
+If you wish to find out more about me, please visit my online portfolio at [www.nostradmsx.com][my-online-portfolio]. 
 
 This blog is written in Jekyll and is using the default Minima theme.  
 
@@ -24,3 +24,4 @@ You can find the source code for Jekyll at GitHub:
 
 
 [jekyll-organization]: https://github.com/jekyll
+[my-online-portfolio]: http://www.nostradmsx.com
