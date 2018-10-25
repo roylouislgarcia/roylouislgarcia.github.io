@@ -14,7 +14,7 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 title: The Tinkering Thinker's blog
-email: roygarcia201@gmail.com
+email: roygarcia201[at]gmail.com
 description: This is the blog of NostradmsX, also known as Roy Louis Garia.
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
