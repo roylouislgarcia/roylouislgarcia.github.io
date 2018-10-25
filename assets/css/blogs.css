@@ -1,0 +1,23 @@
+body{
+	font: 400 16px/1.5 -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Helvetica, Arial, sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol";
+	background-color: #000;
+	color: #00ff00;
+	padding: 100px;
+}
+
+/**
+ * Links
+ */
+a {
+  color: #00ff00;
+  text-decoration: none; }
+  a:visited {
+    color: #00ff00; }
+  a:hover {
+    color: #99ff99;
+    text-decoration: underline; }
+  .social-media-list a:hover {
+    text-decoration: none; }
+    .social-media-list a:hover .username {
+      text-decoration: underline; 
+  }
