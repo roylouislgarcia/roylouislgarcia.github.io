@@ -1,7 +1,7 @@
 ---
 ---
 
- @import "minima";
+@import "minima";
 
 body{
 	background-color: #000;
@@ -12,20 +12,33 @@ title{
 	color: #00ff00;
 }
 
-/**
- * Links
- */
-a, .page-link, .site-title{
+
+a{
   color: #00ff00;
-  text-decoration: none; }
-  a:visited, .page-link:visited, .site-title:visited {
+  text-decoration: none;
+}
+
+.page-link{
+  color: #00ff00;
+  text-decoration: none;
+}
+
+.site-title{
+  color: #00ff00;
+  text-decoration: none;
+}
+ 
+ a:visited, .page-link:visited, .site-title:visited {
     color: #00ff00; }
-  a:hover, .page-link:hover, .site-title:hover{
+ 
+ a:hover, a.page-link:hover, a.site-title:hover{
     color: #99ff99;
     text-decoration: underline; }
-  .social-media-list a:hover {
+
+.social-media-list a:hover {
     text-decoration: none; }
-    .social-media-list a:hover .username {
+
+.social-media-list a:hover .username {
       text-decoration: underline; }
 
  
