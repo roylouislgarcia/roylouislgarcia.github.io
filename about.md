@@ -4,14 +4,20 @@ title: About
 permalink: /about/
 ---
 
-This blog contains some of my raw thoughts and projects relating to things I am passionate about. Some posts are about personal projects, tech news, movies, software, products, etc.. I may even include some tutorials on my recent tinkerings which may expose how some of my ideas hold against practical application. 
+This blog contains some of my raw thoughts and projects relating to things I am passionate about. 
 
-Some of the blog posts I will include can be characterized as either a thought exercise or actually building tangible projects that represent some of the concepts that I want to think and tinker with.
+Categories include:
+  * personal > opinions
+  * personal > projects
+  * learning > tutorials
+  * products > reviews
+  * portfolio > entries
 
-If you wish to find out more about me, please visit my online portfolio at [www.nostradmsx.com][my-online-portfolio]. 
+You can find my more comprehensive online portfolio at [www.nostradmsx.com][my-online-portfolio]. 
+
+_Tools:_
 
 This blog is written in Jekyll and is using the default Minima theme.  
-
 You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at [jekyllrb.com](https://jekyllrb.com/)
 
 You can find the source code for Minima at GitHub:
