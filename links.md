@@ -3,6 +3,18 @@ layout: page
 title: Links
 ---
 
+**Here are some of my previous works**
+
+  * [DMSX Solutions wordpress blog](https://dmsxsolutions.wordpress.com/)
+  * [Data Science and Computer Security](https://datascienceandcomputersecurity.blogspot.com/)
+  * [R Publication via RStudio](http://rpubs.com/journeylearner)
+  * [JIL Data Science](http://journeyinlearningdatascience.blogspot.com/)
+  * [JIL Programming](http://journeyinlearningprogramming.blogspot.com/)
+  * [JIL Ethical Hacking](https://journeyinlearningethicalhacking.blogspot.com/)
+  * [JIL Web Development](https://journeyinlearningwebdevelopment.blogspot.com/)
+
+
+
 _Below are external resources that I find useful:_
 
 **FREELANCING Sites:**
