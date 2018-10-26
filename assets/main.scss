@@ -6,34 +6,22 @@
 body{
 	background-color: #000;
   background-image: url("images/scales.jpg");
-	color: #00ff00;
-}
+	color: #00ff00; }
 
 title{
-	color: #00ff00;
-}
+	color: #00ff00; }
 
 
-a{
+a, .page-link, .site-title {
   color: #00ff00;
-  text-decoration: none;
-}
+  text-decoration: none; }
 
-a.page-link{
-  color: #00ff00;
-  text-decoration: none;
-}
-
-a.site-title{
-  color: #00ff00;
-  text-decoration: none;
-}
  
  a:visited, .page-link:visited, .site-title:visited {
     color: #00ff00; }
  
  a:hover, a.page-link:hover, a.site-title:hover{
-    color: #99ff99;
+    color: #F0F7D4;
     text-decoration: underline; }
 
 .social-media-list a:hover {
@@ -44,5 +32,4 @@ a.site-title{
 
  .highlighter-rouge{
   background-color: #000;
-  color: #00ff00;
- }
+  color: #00ff00; }
