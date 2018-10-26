@@ -1,0 +1,23 @@
+---
+layout: post
+title:  "Git it?"
+date:   2018-10-26 01:22:01 -0700
+categories: learning tutorials
+permalink: "/git/"
+---
+
+```“It is not the strongest or the most intelligent who will survive, but those who can best manage change.” - Charles Darwin.
+```
+
+As a **designer**, developer and even a self-proclaimed artist, I often struggle with finalizing any project or creation that I have to offer to clients, students, or audience. The notion of change, movement, refactoring, versioning, evolution and other variation of not being complacent with the "current moment" engulf my mind. Even when I find the clarity to put a period, deadline or finality on whatever I am saying, working on, or creating, something at the back of my mind expects that one day I would have to revisit these _obra maestro_. 
+
+As a **programmer**, I flood my codes with comments and instructions to my future self. As a **musician**, I record or transcibe various versions of my music. As a **learner**, I take notes, keep all the revisions I make on assignments, and save local copies of files I submit to my instructors. 
+
+Most of these works are time-stamped and I can try to go back and compare the differences if I make any errors on the most recent copy. Doing this manually is really hard and this is were version control systems like git.
+
+If anyone asks me why I need to learn **git** and point out some existing commands on Windows like fc = file change or diff in Mac OSX or Linux, I find myself typing the few _git commands_ I know by heart to demonstrate its superiority over existing commands. I know that the creators of these commands meant well, but in terms of comparing minute differences between files in a large scale development or production environment, git works best. 
+
+Git enables its user to view historical versions of the file and every commit to any change has to be logged. Of course, the quality of comments you attached to every change matters, but you can also review the actual differences within the file. Having accesss to the entire history of a file help make a programmer efficient by giving a sense of comfort that even if the program breaks, the code that caused the break can be easily located and corrected.
+
+
+If you wish to dive into the world of Git, there is a free online book written by Scott Chacon and Ben Straub and published by Apress: [CLICK HERE](https://git-scm.com/book/en/v2) to view the online book entitled _Pro Git_. 
