@@ -27,6 +27,16 @@ theme: minima
 plugins:
   - jekyll-feed
 
+default:
+  -
+    scope:
+      path: ""
+      type: "posts"
+      values:
+        #values
+        layout: "post"
+        author: "Roy Louis Garcia"
+
 # Exclude from processing.
 # The following items will not be processed, by default. Create a custom list
 # to override the default setting.
