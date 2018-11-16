@@ -12,12 +12,24 @@ title{
   color: #999999; }
 
 
-a, .page-link, .site-title, .site-nav, .trigger {
+a, .site-title, .site-nav, .trigger {
   color: #A11E22;
   text-decoration: none; }
 
+.page-link, page-link:visited{
+  background-color: #FFE7E5;
+  padding-left:15px;
+  padding-right:15px;
+}
+
+.page-link:hover{
+  background-color: #A11E22;
+  color: #FFE7E5;
+  text-decoration: none;
+}
+
  
- a:visited, .page-link:visited, .site-title:visited {
+ a:visited, .site-title:visited {
     color: #A11E22; }
  
  a:hover, a.page-link:hover, a.site-title:hover{
