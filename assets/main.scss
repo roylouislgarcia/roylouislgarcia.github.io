@@ -42,6 +42,10 @@ a, .site-title, .site-nav, .trigger {
 .social-media-list a:hover .username {
       text-decoration: underline; }
 
- .highlighter-rouge{
+.highlighter-rouge, .highlight{
   background-color: #000;
+  color: #A11E22;
+}
+code{
+  font-size: 1.2em;
 }
