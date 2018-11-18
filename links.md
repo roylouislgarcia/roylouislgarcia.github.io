@@ -60,3 +60,6 @@ _Below are external resources that I find useful:_
   * [https://www.rstudio.com/products/RStudio/#Desktop](https://www.rstudio.com/products/RStudio/#Desktop)
   * [http://www.r-bloggers.com/](http://www.r-bloggers.com/)
   * [http://rgraphgallery.blogspot.com/](http://rgraphgallery.blogspot.com/)
+
+
+&copy; 2018
