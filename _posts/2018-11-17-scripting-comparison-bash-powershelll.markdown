@@ -1,19 +1,21 @@
 ---
 layout: post
-title:  "Simple Comparison: Bash versus Powershell"
+title:  "Simple Comparison: Bash versus PowerShell"
 categories: tutorial scripting
 permalink: /:categories/:year/:title
 ---
 
-On my windows machine, I normally start my terminal emulator, _cmder_, as either a Bash admin or Powershell admin. 
+This is just a simple glimpse into how I use Bash scripts and/or PowerShell scripts on my Windows 10 machine to automate my workflow, or atleast run a scripts to do more than one thing at a time. 
+
+I normally start my console emulator, _cmder_, as a Bash admin, but I also open a new _cmder_ window/tab as a PowerShell admin. 
 
 <img src="/assets/images/tutorials/cmderinit.png" width="500px"/>
 
-As you can see from the above image, from the _cmder_ folder, I wrote the following scripts to quickly set me up for work:
-1. change my directory on _cmder_ to the TARGET folder
-2. open that folder in Sublime
-3. open that folder in Windows Explorer
-4. show the path to the current( which is also the TARGET) directory 
+As you can see from the above image, I wrote the following scripts to quickly set me up for work:
+1. change my directory from the _cmder_ to one of my destination work folders: my product reviews, local git repositories, and nodejs development folder.
+2. open the destination folder in Sublime
+3. open the destination folder in Windows Explorer
+4. show the path to the current (which was also the destination) folder
 
 Here is the simple PowerShell script:
 
@@ -39,11 +41,11 @@ or
 
 _Notes_: When running the *Bash* version of the program from cmder, _always_ precede the filename with "source" or a "." in order for change directory to work. Without it, the sublime command will run and windows explorer will open, but on you will not change directory to your TARGET folder. See the images below:
 
-*Aftermath of _incorrectly_ running the Bash script version:*
+_Incorrect_:
 
 <img src="/assets/images/tutorials/aftermathgotoreviewsh.png"/>
 
-*Aftermath of _correctly_ running the Bash script:*
+_Correct_:
 
 <img src="/assets/images/tutorials/aftermathgotoreviewsh2.png"/>
 
@@ -54,9 +56,9 @@ _Notes_: When running the *Bash* version of the program from cmder, _always_ pre
 There are lots of websites that can help you learn either Bash or PowerShell scripting:
 
 For PowerShell:
-1. [Microsoft Documentation Page](https://docs.microsoft.com/en-us/powershell/scripting/PowerShell-Scripting?view=powershell-5.1)
-2. [Another Microsoft PowerShell Documentation](https://docs.microsoft.com/en-us/powershell/)
-3. [A PowerShell Primer article written by Jonathan Hassell for ComputerWorld.com](https://www.computerworld.com/article/2879205/data-center/powershell-for-beginners-scripts-and-loops.html?page=3)
+1. [Microsoft Documentation Page](https://docs.microsoft.com/en-us/PowerShell/scripting/PowerShell-Scripting?view=PowerShell-5.1)
+2. [Another Microsoft PowerShell Documentation](https://docs.microsoft.com/en-us/PowerShell/)
+3. [A PowerShell Primer article written by Jonathan Hassell for ComputerWorld.com](https://www.computerworld.com/article/2879205/data-center/PowerShell-for-beginners-scripts-and-loops.html?page=3)
 
 For Bash Scripting:
 1. [Bash Beginners Guide by Machtelt Garrels](http://tldp.org/LDP/Bash-Beginners-Guide/html/Bash-Beginners-Guide.html) 
