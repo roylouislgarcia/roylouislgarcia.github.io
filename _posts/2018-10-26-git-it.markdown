@@ -13,7 +13,7 @@ As a **designer**, developer and even a self-proclaimed artist, I often struggle
 
 As a **programmer**, I flood my codes with comments and instructions to my future self. As a **musician**, I record or transcibe various versions of my music. As a **learner**, I take notes, keep all the revisions I make on assignments, and save local copies of files I submit to my instructors. 
 
-Most of these works are time-stamped and I can try to go back and compare the differences if I make any errors on the most recent copy. Doing this manually is really hard and this is were version control systems like git.
+Most of these works are time-stamped and I can try to go back and compare the differences if I make any errors on the most recent copy. Doing this manually is really hard and this is where version control systems like git can help.
 
 If anyone asks me why I need to learn **git** and point out some existing commands on Windows like fc = file change or diff in Mac OSX or Linux, I find myself typing the few _git commands_ I know by heart to demonstrate its superiority over existing commands. I know that the creators of these commands meant well, but in terms of comparing minute differences between files in a large scale development or production environment, git works best. 
 
