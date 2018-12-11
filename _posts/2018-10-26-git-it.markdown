@@ -2,8 +2,7 @@
 layout: post
 title:  "Git it?"
 date:   2018-10-26 01:22:01 -0700
-categories: learning tutorials
-permalink: "/git/"
+topic: administration
 ---
 
 ```“It is not the strongest or the most intelligent who will survive, but those who can best manage change.” - Charles Darwin.

@@ -1,8 +1,7 @@
 ---
 layout: post
 title:  "Journey Learner"
-categories: pseudonym
-permalink: /:categories/:year/:title
+topic: personal
 ---
 
 In college, a friend told me to relax a bit and be ok with submitting mediocre deliverables every now and then. "We do not need to cover everything, and when we present it, we need to act like we are the experts of whatever we are reporting about." 

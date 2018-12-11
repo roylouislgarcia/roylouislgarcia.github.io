@@ -2,8 +2,7 @@
 layout: post
 title:  "NostradmsX"
 date:   2011-02-11 16:22:01 -0700
-categories: pseudonym
-permalink: /:categories/:year/:title
+topic: personal
 ---
 **NostradmsX** is the pseudonym I started using way back during the prominence of AOL and Yahoo. I have varying genesis stories associated with this pseudonym. 
 

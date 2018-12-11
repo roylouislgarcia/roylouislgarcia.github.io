@@ -7,11 +7,12 @@ permalink: /about/
 This blog contains some of my raw thoughts and projects relating to things I am passionate about. 
 
 Categories include:
-  * personal > opinions
-  * personal > projects
-  * learning > tutorials
-  * consumer > reviews
-  * portfolio > entries
+  * Administration
+  * Data Science
+  * Programming
+  * Computer Security
+  * Web Development
+  * Personal/Opinions
 
 You can find my more comprehensive online portfolio at [www.nostradmsx.com][my-online-portfolio]. 
 

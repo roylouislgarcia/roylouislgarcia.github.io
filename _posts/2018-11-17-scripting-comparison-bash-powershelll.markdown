@@ -1,8 +1,7 @@
 ---
 layout: post
 title:  "Simple Comparison: Bash versus PowerShell"
-categories: tutorial scripting
-permalink: /:categories/:year/:title
+topic: programming
 ---
 
 This is just a simple glimpse into how I use Bash scripts and/or PowerShell scripts on my Windows 10 machine to automate my workflow, or atleast run a scripts to do more than one thing at a time. 
