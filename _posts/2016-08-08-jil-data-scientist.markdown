@@ -18,7 +18,7 @@ We learned the R programming language, which is often preferred by most data sci
 
 In this class, the professor provides a thorough study on what it takes to be a data science, and even provide enough information on how his students got their jobs within the data science industry. He would have guest speakers from former students that are currently working as data scientists, business analysts, and business data analysts. There is even enough information to distinguish a data scientist's job from a software engineer's, or how a data scientist works along side the other three jobs. Here are sample screenshots from this course:
 
-**Below are some infographics that compares some various Data Science related careers**:
+**Below are some infographics that compare some various Data Science related careers**:
 
 ![Business Data vs Business Data Analyst](/assets/images/datascience/jilbusinessdataanalystversusbusinessanalyst.JPG)
 ![Data Scientist vs Business Data Analyst](/assets/images/datascience/jildatascientistskills.JPG)
