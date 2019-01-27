@@ -8,7 +8,7 @@ topic: datascience
 
 Prior to data analysis, acquiring data and preparing them to be analyzed requires the following procedures:
 
-Raw Data -> Processing Script -> Tidy Data -> Data Analysis -> Data Communication
+*Raw Data -> Processing Script -> Tidy Data -> Data Analysis -> Data Communication*
 
 The raw data for this project will be exported as Comma Separated Values or CSV files from exports of a computer firewall and a packet capture tool, like Wireshark. It is important to make sure that the data is ideal to be imported to data analysis tools. Ideal data to be used for analysis has the following requirements:
 

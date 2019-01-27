@@ -7,6 +7,4 @@ layout: home
 
 **WELCOME TO MY BLOG**
 
-These blog is a consolidation of some writings using various pseudonyms all throughout my career. These pseudonyms were used to compartmentalize the growing list of concerns I encountered as a learner, professional, and a person. 
-
-The point of this blog is to "try" to be comprehensive, informal, personal, and even funny(?). In this blog, the pseudonyms dissipate.
+Life provides many lessons and opportunities that help us progress and add value to our journey. I try to record these blissful moments in writing. My writings may not offer some grand illumination, but what I am hoping to accomplish is offer some alternative perspective on certain subjects that I find interesting. I would be thankful if you find value on my efforts to share. Feel free to email me or comment on my blog if any of my posts interest you.

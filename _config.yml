@@ -46,7 +46,7 @@ default:
 
 header_pages:
   - about.md
-  - tutorials.html
+  - tutorials.md
   - links.md
 
 
