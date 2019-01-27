@@ -4,6 +4,7 @@ title: About
 permalink: /about/
 ---
 
+
 This blog contains some of my raw thoughts and projects relating to things I am passionate about. 
 
 Categories include:
@@ -14,13 +15,9 @@ Categories include:
   * Web Development
   * Personal/Opinions
 
-You can find my more comprehensive online portfolio at [www.nostradmsx.com][my-online-portfolio]. 
+**History of my Pseudonyms**:
 
-**MOTIVATION FOR THIS BLOG**
-
-This blog may serve as a link between the various works I created using various pseudonyms. The pseudonyms were used to compartmentalize the growing list of products and services I offer as a professional.
-
-As a freelancer, I constantly try to reinvent my branding strategies. For example, **NostradmsX Designs** and **Redbox Designs** were related to web development. **DMSX Solutions** and **Journey in Learning** helped with social media marketing, SEO (Search Engine Optimization), branding, datascraping, sentiment analysis, and social media administration. Lastly, **Journey in Learning** and **Privasecurity** pushed to advance issues relating to _inclusive learning_, _assistive technology_, _privacy_, _computer security_ and others. 
+As an entrepreneur, I constantly reinvent my branding strategies to remain fresh and relevant. **NostradmsX Designs** and **Redbox Designs** were offered products and services related to web development. **DMSX Solutions** and **Journey in Learning** helped with social media marketing, SEO (Search Engine Optimization), branding, datascraping, sentiment analysis, and social media administration. Lastly, **Journey in Learning** and **Privasecurity** pushed to advance issues relating to _inclusive learning_, _assistive technology_, _privacy_, _computer security_ and others. 
 
 Also, as a _perpetual learner and technology tinker_, I enrolled in some MOOC (Massive Open Online Courses) in order to remain relevant in the IT industry. I created course reviews and tutorials to help other learners like me.
 
@@ -28,10 +25,11 @@ I try to disassociate my professional work from my personal projects. Doing paid
 
 Security, anonymity, and privacy needs prompted me to create other pseudonyms, such as **Radyouloroy**, **Andyroid**, and others in order to compartmentalize the various IT disciplines I dabble into without compromising my private life. 
 
-The point of this blog is to "try" to be comprehensive, informal, personal, and even funny(?). In this blog, the pseudonyms dissipate.
+**My Online Portofolio @ NostradmsX.com**:
 
+You can find out more about me at [www.nostradmsx.com][my-online-portfolio]. 
 
-_Tools:_
+**Tools Used to Create These Blog**
 
 This blog is written in Jekyll and is using the default Minima theme. I have overridden the main.css file to make a dark theme version of Minima.
 

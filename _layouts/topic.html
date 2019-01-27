@@ -8,7 +8,7 @@ layout: default
 <ul>
   {% assign filtered_posts = site.posts | where: 'topic', page.short_name %}
   {% if filtered_posts.size > 0 %}
-    <h2>Posts</h2>
+    <h2>Posts related to {{ page.name }}</h2>
   {% else %}  
    <h3>Currently No Post Available</h3>
   {% endif %}
