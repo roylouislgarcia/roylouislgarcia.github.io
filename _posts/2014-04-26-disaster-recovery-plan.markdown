@@ -1,5 +1,6 @@
 ---
 layout: post
+comments: true
 title:  "Overview of Two Crucial Documents in Computer Security"
 date:   2014-04-26 01:22:01 -0700
 topic: security
@@ -30,3 +31,4 @@ Another blog article that I found useful in providing readers an example of a do
 Now, as you learn more about both the technical part of computer security, put in mind that you may need to convey both your concerns and solutions as part any one of the two documents you have learned from this blog: DRP or Disaster Recovery Plan and/or RR or Risk Register. Feel free to bookmark the above resources I used and visit this blog once more. Comment if you have further questions.
 
 
+{%- include comments.html -%}

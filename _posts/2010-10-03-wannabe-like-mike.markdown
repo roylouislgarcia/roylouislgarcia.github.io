@@ -1,5 +1,6 @@
 ---
 layout: post
+comments: true
 title:  "Wanna be like Michael Jordan? Read along.."
 date:   2010-10-03 16:22:01 -0700
 topic: personal
@@ -33,3 +34,5 @@ I miss my father so much..... I miss watching basketball with him. I know die ha
 * ...mas madali pala umiyak sa harap ng computer kesa habang nag-da drive or nagpipilit maging matatag sa isang funeral....
 
 I do not want to be like Michael Jordan, anymore... I do not want to be Reggie Miller just to be my dad's favorite basketball player...and I will let Kobe be Kobe...... I just want to be Roy, my father's son....... I love you Reynaldo Cruz Garcia.
+
+{%- include comments.html -%}

@@ -1,5 +1,6 @@
 ---
 layout: post
+comments: true
 title:  "Big Data: an Overview"
 topic: datascience
 ---
@@ -28,3 +29,5 @@ Future: Big Data acts as a Digital Nervous System
 * Learning from experience
 * Adapting to changes 
 * Reacting swiftly
+
+{%- include comments.html -%}

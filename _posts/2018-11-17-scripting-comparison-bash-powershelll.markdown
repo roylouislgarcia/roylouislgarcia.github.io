@@ -1,5 +1,6 @@
 ---
 layout: post
+comments: true
 title:  "Simple Comparison: Bash versus PowerShell"
 topic: programming
 ---
@@ -68,3 +69,5 @@ If you are interested in _cmder_, a powerful, portable console emulator for Wind
 
 
 <img src="/assets/images/tutorials/cmderdotnet.png"/>
+
+{%- include comments.html -%}

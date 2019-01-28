@@ -1,5 +1,6 @@
 ---
 layout: post
+comments: true
 title:  "Journey Learner"
 topic: personal
 ---
@@ -38,3 +39,5 @@ Around 2012, articles like this one written by Laura Pappano were sporadically a
 As a learner, I created blogs to chronicle my journey in learning from various MOOC sites. I am planning to create updated postings in this blog based on the tutorials I created using my pseudonym JourneyLearner. I am sure that lots have changed since then. 
 
 ![image of journey in learning logo](/assets/images/jil.jpg)
+
+{%- include comments.html -%}

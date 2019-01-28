@@ -1,5 +1,6 @@
 ---
 layout: post
+comments: true
 title:  "Testing Wireshark CSV to R Integration"
 topic: datascience
 ---
@@ -22,3 +23,4 @@ Within the same directory where "datacapture.csv" is saved, R should be able to 
 
 ![R Analysis of the wireshark output](/assets/images/datascience/Ranalysis.png)
 
+{%- include comments.html -%}

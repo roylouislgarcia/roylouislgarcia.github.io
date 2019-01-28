@@ -1,5 +1,6 @@
 ---
 layout: post
+comments: true
 title:  "NostradmsX"
 date:   2011-02-11 16:22:01 -0700
 topic: personal
@@ -26,3 +27,4 @@ My attitude to look beyond the ordinary may have started when I tried to researc
 1. [nostradmsx.com](http://www.nostradmsx.com)
 2. [Wiki about Nostradamus](https://en.wikipedia.org/wiki/Nostradamus)
 
+{%- include comments.html -%}

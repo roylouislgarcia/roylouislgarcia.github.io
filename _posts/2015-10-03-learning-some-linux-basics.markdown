@@ -1,5 +1,6 @@
 ---
 layout: post
+comments: true
 title:  "Learning Some Linux Basic Commands"
 topic: security
 ---
@@ -28,3 +29,5 @@ Here are a few other commands:
 
 ![sample dashboard panel](/assets/images/computersecurity/linuxcommands.jpg)
 
+
+{%- include comments.html -%}

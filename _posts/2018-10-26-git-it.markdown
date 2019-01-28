@@ -1,5 +1,6 @@
 ---
 layout: post
+comments: true
 title:  "Git it?"
 date:   2018-10-26 01:22:01 -0700
 topic: administration
@@ -20,3 +21,5 @@ Git enables its user to view historical versions of the file and every commit to
 
 
 If you wish to dive into the world of Git, there is a free online book written by Scott Chacon and Ben Straub and published by Apress: [CLICK HERE](https://git-scm.com/book/en/v2) to view the online book entitled _Pro Git_. 
+
+{%- include comments.html -%}

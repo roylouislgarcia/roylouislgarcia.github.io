@@ -1,5 +1,6 @@
 ---
 layout: post
+comments: true
 title:  "Methodology of Observation"
 topic: datascience
 ---
@@ -23,3 +24,5 @@ Resources:
 Peng, R. (2015). Principles of Analytic Graphics [video]. Retrieved from https://class.coursera.org/exdata-031/lecture/13
 
 Tufte, E. (2006). Beautiful Evidence, Graphics Press, LLC. Retrieved from www.edwardtufte.com
+
+{%- include comments.html -%}

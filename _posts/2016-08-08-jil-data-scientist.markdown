@@ -1,5 +1,6 @@
 ---
 layout: post
+comments: true
 title:  "Journey In Learning: Data Scientist"
 topic: datascience
 ---
@@ -22,3 +23,5 @@ In this class, the professor provides a thorough study on what it takes to be a 
 
 ![Business Data vs Business Data Analyst](/assets/images/datascience/jilbusinessdataanalystversusbusinessanalyst.JPG)
 ![Data Scientist vs Business Data Analyst](/assets/images/datascience/jildatascientistskills.JPG)
+
+{%- include comments.html -%}

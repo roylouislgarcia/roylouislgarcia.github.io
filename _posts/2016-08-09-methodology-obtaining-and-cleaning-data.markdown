@@ -1,5 +1,6 @@
 ---
 layout: post
+comments: true
 title:  "Methodology: Obtaining and Cleaning Data"
 topic: datascience
 ---
@@ -58,3 +59,5 @@ Most raw data come from various sources, including servers located online. Altho
 A review of R commands that might be helpful in the creation of automated scripts is listed below:
 
 ![R commands](/assets/images/datascience/downloadingcsv1.PNG)
+
+{%- include comments.html -%}

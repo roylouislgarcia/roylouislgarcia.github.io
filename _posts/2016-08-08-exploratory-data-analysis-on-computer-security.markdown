@@ -1,5 +1,6 @@
 ---
 layout: post
+comments: true
 title:  "Exploratory Data Analysis on Computer Security "
 topic: datascience
 ---
@@ -37,3 +38,5 @@ Two-dimensional summaries of data include:
 ![sample dashboard panel](/assets/images/datascience/4scatterplots.PNG)
 
 ![sample dashboard panel](/assets/images/datascience/4scatterplots2.PNG)
+
+{%- include comments.html -%}

@@ -1,5 +1,6 @@
 ---
 layout: post
+comments: true
 title:  "A Day @ XLDP"
 date:   2007-02-07 16:22:01 -0700
 topic: personal
@@ -38,6 +39,9 @@ The challenges I have is to be patient when you do not have the right access or 
 <img  class="image-right" src="/assets/images/personal/learnings.jpg">
 
 I learned the value of formal documentation of procedured in the office. I also had a taste of how to be meticulous and detail-oriented when dealing with audits. Overall, even as a mere intern, I need to adhere and be familiar with the company's business standards and requirements.
+
+
+{%- include comments.html -%}
 
 <style type="text/css">
 .image-left {
