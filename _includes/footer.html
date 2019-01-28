@@ -5,14 +5,15 @@
       <div class="footer-col footer-col-1">
         <ul class="contact-list">
           <li class="p-name">
-            {%- if site.author -%}
+            <b>{%- if site.author -%}
               {{ site.author | escape }}
             {%- else -%}
               {{ site.title | escape }}
             {%- endif -%}
+            &copy; 2019</b>
             </li>
             {%- if site.email -%}
-            <li><a class="u-email" data-email="roygarcia201ATgmailDOTcom">send me an email</a>
+            <li><a class="u-email" data-email="roygarcia201ATgmailDOTcom">send Roy an email</a>
              </li>
             {%- endif -%}
         </ul>
