@@ -4,9 +4,9 @@ title:  "Simple Comparison: Bash versus PowerShell"
 topic: programming
 ---
 
-This is just a simple glimpse into how I use Bash scripts and/or PowerShell scripts on my Windows 10 machine to automate my workflow, or atleast run a scripts to do more than one thing at a time. 
+This is just a simple glimpse into how I use Bash scripts and/or PowerShell scripts on my Windows 10 machine to automate my workflow and do more than one thing at a time. 
 
-I normally start my console emulator, _cmder_, as a Bash admin, but I also open a new _cmder_ window/tab as a PowerShell admin. 
+I normally start my console emulator, _cmder_, as a Bash admin, but sometimes, I open a new tab as a PowerShell admin. 
 
 <img src="/assets/images/tutorials/cmderinit.png" width="500px"/>
 
