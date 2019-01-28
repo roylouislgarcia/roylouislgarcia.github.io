@@ -3,13 +3,5 @@ layout: topic
 short_name: webdevelopment
 name: Web Development
 ---
-Tutorials include:
 
-1. HTML
-2. CSS
-3. JAVASCRIPT
-4. API
-5. LAMP
-6. SQL: SQLAlchemy, SQLite
-7. AWS
-8. FullStack
+Web developers can help hide the complexities of what they are able to weave using code, but also be inclusive. Aside from helping clients create an effective online presence for their businesses, no one needs to be left behind in harnessing the benefits of these creations.

@@ -17,7 +17,7 @@ layout: default
         {%- assign date_format = site.minima.date_format | default: "%b %-d, %Y" -%}
         <span class="post-meta">{{ post.date | date: date_format }}</span>
         <b>
-          <a class="post-link" href="{{ post.url | relative_url }}">
+          <a class="post-link" href="{{ post.url | relative_url }}"><img class="redarrowleft" src="/assets/images/redarrowleft.png">
             {{ post.title | escape }}
           </a>
         </b>
@@ -32,3 +32,14 @@ layout: default
   {%- endif -%}
 
 </div>
+
+
+<style type="text/css">
+  .redarrowleft {
+    width:50px;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    float: right;
+  }
+  </style>
