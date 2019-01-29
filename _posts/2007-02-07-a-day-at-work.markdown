@@ -4,6 +4,7 @@ comments: true
 title:  "A Day @ XLDP"
 date:   2007-02-07 16:22:01 -0700
 topic: personal
+show_excerpts: true
 ---
 
 <img class="image-left" src="/assets/images/personal/time.jpg">This week at **XL Design Professionals** (XLDP), I only worked 8.5 hours because I took some time off to devote some time for paper works involving school. My work place is aware that I am applying for the masters program at CSUMB. Last week, my supervisor and his two business analysts discussed how I should help create some documentation of the workflows that I am slowly getting accustomed to. This was necessary in case I plan to progress my role within the company. I had been introducing some more efficient processes that I learned fresh from school and they want others to benefit from it. I was more than willing to share my knowledge.

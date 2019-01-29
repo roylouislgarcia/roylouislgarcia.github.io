@@ -3,6 +3,7 @@
 # To modify the layout, see https://jekyllrb.com/docs/themes/#overriding-theme-defaults
 
 layout: home
+
 ---
 
 **Hello from Roy Louis Garcia a.k.a. Nostra!**
