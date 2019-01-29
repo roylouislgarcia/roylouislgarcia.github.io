@@ -1,14 +1,14 @@
 ---
 layout: default
 ---
-<h1>{{ page.name }}</h1>
-
+<div class="block-content">
+<h1 class="topictitle">{{ page.name }}</h1>
 {{ content }}
-
+</div>
 <ul>
   {% assign filtered_posts = site.posts | where: 'topic', page.short_name %}
   {% if filtered_posts.size > 0 %}
-    <h2>Posts related to {{ page.name }}</h2>
+    <h2>Here are my posts related to {{ page.name }}</h2>
   {% else %}  
    <h3>Currently No Post Available</h3>
   {% endif %}
