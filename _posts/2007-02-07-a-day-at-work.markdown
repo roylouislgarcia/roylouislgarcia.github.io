@@ -42,21 +42,3 @@ I learned the value of formal documentation of procedured in the office. I also 
 
 
 {%- include comments.html -%}
-
-<style type="text/css">
-.image-left {
-  padding-right: 30px;
-  display: block;
-  margin-left: auto;
-  margin-right: auto;
-  float: left;
-}
-
-.image-right {
-  padding-left: 30px;
-  display: block;
-  margin-left: auto;
-  margin-right: auto;
-  float: right;
-}
-</style>

@@ -11,30 +11,3 @@ layout: home
 
 Nope, this is not DYI blog or guide for fishermen. I am in the Information Technology career and limited in sharing some insights on learning and optimizing the use of certain technology. My writings may not offer some grand illumination, but what I am hoping to accomplish is to offer some alternative view on certain subjects that we both may find interesting. I would be thankful if you find reading some of my posts rewarding and would be happy to learn from you, as well. Feel free to comment on my posts, send me a direct message via twitter [@roylouisgarcia](https://twitter.com/roylouisgarcia) or send me an email (see my contact info below). Thank you.
 
-<style type="text/css">
-.image-left {
-  padding-right: 30px;
-  width: 160px;
-  display: block;
-  margin-left: auto;
-  margin-right: auto;
-  float: left;
-}
-
-.nostra {
-  padding: 6px;
-  width: 120px;
-  display: block;
-  margin-left: auto;
-  margin-right: auto;
-  float: right;
-}
-
-.image-right {
-  padding-left: 30px;
-  display: block;
-  margin-left: auto;
-  margin-right: auto;
-  float: right;
-}
-</style>
