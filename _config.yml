@@ -51,6 +51,7 @@ default:
         layout: "default"
 
 header_pages:
+  - index.html
   - allposts.md
   - topics.md
   - links.md
