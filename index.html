@@ -16,7 +16,7 @@ Nope, this is not DYI blog or guide for fishermen. I am in the Information Techn
 
 <hr>
 
-<!-- Pagination links -->
+<!-- Pagination links on top -->
 <div class="pagination">
     {% if paginator.page != 1 %}
     {% if paginator.previous_page %}
@@ -56,3 +56,23 @@ Nope, this is not DYI blog or guide for fishermen. I am in the Information Techn
   </div>
 {% endfor %}
 
+<!-- Pagination links at the bottom -->
+<div class="pagination">
+    {% if paginator.page != 1 %}
+    {% if paginator.previous_page %}
+      <a href="{{ paginator.previous_page_path }}" class="previous">
+        Previous
+      </a>
+    {% else %}
+      <span class="previous">Previous</span>
+    {% endif %}
+    {% endif %}
+    <span class="page_number">
+      Page: {{ paginator.page }} of {{ paginator.total_pages }}
+    </span>
+    {% if paginator.next_page %}
+      <a href="{{ paginator.next_page_path }}" class="next">Next</a>
+    {% else %}
+      <span class="next">Next</span>
+    {% endif %}
+  </div>
