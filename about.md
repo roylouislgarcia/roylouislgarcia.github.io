@@ -5,7 +5,7 @@ permalink: /about/
 ---
 
 
-This blog contains some of my raw thoughts and projects relating to things I am passionate about. 
+This blog contains some of my raw thoughts and projects relating to topics I am passionate about. 
 
 Topics include:
   * Administration
