@@ -7,7 +7,7 @@ permalink: /about/
 
 This blog contains some of my raw thoughts and projects relating to things I am passionate about. 
 
-Categories include:
+Topics include:
   * Administration
   * Data Science
   * Programming

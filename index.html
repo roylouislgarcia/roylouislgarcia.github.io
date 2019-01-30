@@ -1,0 +1,53 @@
+---
+layout: home
+paginate: true
+---
+
+<h1>Hello from Roy Louis Garcia a.k.a. Nostra!</h1>
+
+<p><img class="nostra" src="/assets/images/nostra.jpg">I had been using <a href="/2011/02/11/nostradmsx.html" target="_blank"><i>No_Str_A</i></a> as a pseudonym, username, business name, etc. This blog aims to help without any hidden agenda. Yup, *no strings attached*! I find it more rewarding to take the role of an *anonymous* Good Samaritan rather than cause any delay for others to realize their intrinsic value. “Give a man a fish, and he will be hungry again to-morrow; teach him to catch a fish, and he will be richer all his life.” (a common adage - <a href="https://quoteinvestigator.com/2015/08/28/fish/" target="_blank" >more about the quote</a>).
+</p>
+<p>
+Nope, this is not DYI blog or guide for fishermen. I am in the Information Technology career and limited in sharing some insights on learning and optimizing the use of certain technology. My writings may not offer some grand illumination, but what I am hoping to accomplish is to offer some alternative view on certain subjects that we both may find interesting. I would be thankful if you find reading some of my posts rewarding and would be happy to learn from you, as well. Feel free to comment on my posts by sending me a direct message via twitter or email (see my contact info below). Thank you.
+</p>
+
+<hr>
+
+<!-- Pagination links -->
+<div class="pagination">
+    {% if paginator.previous_page %}
+      <a href="{{ paginator.previous_page_path }}" class="previous">
+        Previous
+      </a>
+    {% else %}
+      <span class="previous">Previous</span>
+    {% endif %}
+    <span class="page_number ">
+      Page: {{ paginator.page }} of {{ paginator.total_pages }}
+    </span>
+    {% if paginator.next_page %}
+      <a href="{{ paginator.next_page_path }}" class="next">Next</a>
+    {% else %}
+      <span class="next ">Next</span>
+    {% endif %}
+  </div>
+
+<!-- This loops through the paginated posts -->
+{% for post in paginator.posts %}
+
+{% assign topic = site.topics | where: 'short_name', post.topic | first %}
+{% if topic %}
+ <hr>
+  Topic: <a href="{{ topic.url }}">{{ topic.name }}</a>
+  <hr><br>
+{% endif %}
+
+  <h1><a href="{{ post.url }}">{{ post.title }}</a></h1>
+  <p class="author">
+    <span class="date">{{ post.date | date: '%B %d, %Y' }}</span>
+  </p>
+  <div class="content">
+    {{ post.content }}
+  </div>
+{% endfor %}
+

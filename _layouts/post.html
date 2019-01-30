@@ -19,7 +19,7 @@ layout: default
       {% assign topic = site.topics | where: 'short_name', page.topic | first %}
       {% if topic %}
        <hr>
-        Category: <a href="{{ topic.url }}">{{ topic.name }}</a>
+        Topic: <a href="{{ topic.url }}">{{ topic.name }}</a>
         <hr><br>
       {% endif %}
 
