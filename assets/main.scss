@@ -92,6 +92,15 @@ code{
   float: right;
 }
 
+.logo-left {
+  height: 50px;
+  width: 40px;
+  padding-right: 15px;
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  float: left;
+}
 
 .image-left {
   padding-right: 30px;
@@ -155,20 +164,31 @@ h1.topictitle{
   color: #A11E22;
 }
 
+.pagination a, .pagination span{
+  padding: 7px 18px;
+  border: 1px solid #eee;
+  margin-left: -2px;
+  margin-right: -2px;
+  background-color: #ffffff;
+  display: inline-block;
+}
+
+.pagination a {    
+  &:hover {
+      background-color: #f1f1f1;
+      color: #333;
+  }
+}
+
 .pagination{
   background-color: #000;
-  color:white;
+  color: #A11E22;
   font-family: "dinbold";
   font-size: 1.1em;
   text-align: center;
 }
 
-.logo-left {
-  height: 50px;
-  width: 40px;
-  padding-right: 15px;
-  display: block;
-  margin-left: auto;
-  margin-right: auto;
-  float: left;
+.previous, .next{
+  font-size: .8em;
 }
+
