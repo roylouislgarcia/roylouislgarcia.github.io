@@ -15,8 +15,8 @@ You can find the source code for Jekyll at GitHub:
 [jekyll](https://github.com/jekyll/jekyll)
 
 
-# My portfolio was moved to [www.nostradmsx.com][my-online-portfolio]
+# My portfolio was moved to [https://roylouisgarcia.github.io/portfolio/][my-online-portfolio]
 
 
-[my-online-portfolio]: http://www.nostradmsx.com
+[my-online-portfolio]: https://roylouisgarcia.github.io/portfolio/
 [jekyll-organization]: https://github.com/jekyll
